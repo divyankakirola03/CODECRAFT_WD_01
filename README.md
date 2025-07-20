@@ -25,6 +25,4 @@ Enter your message: hello world
 Enter shift value: 3  
 Encrypted Message: khoor zruog
 
-Author
-Divyanka Kirola
-[LinkedIn]:https://www.linkedin.com/in/divyanka-kirola-b70236293?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+
