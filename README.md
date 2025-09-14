@@ -1,9 +1,7 @@
 Caesar Cipher – Python Implementation
+
 This repository contains a Python implementation of the Caesar Cipher, one of the simplest and most widely known encryption techniques.
-
-Task Objective-
-
-Cybersecurity Internship – Task 1:  
+Objective-
 Build a Caesar Cipher in Python that can encrypt and decrypt text based on a user-defined shift.
 
 How It Works-
