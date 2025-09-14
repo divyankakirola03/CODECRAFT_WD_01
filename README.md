@@ -1,8 +1,4 @@
-CODECRAFT_WD_01 – Cybersecurity Internship Tasks
-
-
-✦ Caesar Cipher – Cybersecurity Task 1
-
+Caesar Cipher – Python Implementation
 This repository contains a Python implementation of the Caesar Cipher, one of the simplest and most widely known encryption techniques.
 
 Task Objective-
